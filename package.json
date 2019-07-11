@@ -35,7 +35,7 @@
     "async-helper-base": "^0.2.0",
     "base-loader": "^0.1.0",
     "chalk": "^1.1.1",
-    "composer": "^0.4.0",
+    "composer": "^0.11.3",
     "computed-property": "^0.1.2",
     "cwd": "^0.8.0",
     "data-store": "^0.8.2",
@@ -65,7 +65,7 @@
     "is-true": "^0.1.0",
     "js-comments": "^0.5.4",
     "lint-templates": "^0.1.2",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.12",
     "log-symbols": "^1.0.2",
     "logging-helpers": "^0.4.0",
     "markdown-toc": "^0.11.5",
@@ -92,7 +92,7 @@
     "template-toc": "^0.3.3",
     "through2": "^2.0.0",
     "update-copyright": "^0.1.0",
-    "vinyl-fs": "^1.0.0",
+    "vinyl-fs": "^2.0.0",
     "year": "^0.2.1"
   },
   "devDependencies": {
