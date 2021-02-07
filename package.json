@@ -52,7 +52,7 @@
     "gulp-util": "^3.0.6",
     "helper-changelog": "^0.1.0",
     "helper-codelinks": "^0.1.2",
-    "helper-copyright": "^1.4.0",
+    "helper-copyright": "^2.0.0",
     "helper-coverage": "^0.1.2",
     "helper-date": "^0.2.2",
     "helper-license": "^0.2.1",
