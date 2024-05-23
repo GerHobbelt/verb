@@ -70,7 +70,7 @@
     "logging-helpers": "^0.4.0",
     "markdown-toc": "^0.11.5",
     "markdown-utils": "^0.7.1",
-    "micromatch": "^2.2.0",
+    "micromatch": "^4.0.6",
     "middleware-utils": "^0.1.4",
     "parse-author": "^0.2.0",
     "parse-copyright": "^0.4.0",
