@@ -24,7 +24,9 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "dependencies": {
     "ansi-bold": "^0.1.1",
@@ -93,7 +95,8 @@
     "through2": "^2.0.0",
     "update-copyright": "^0.1.0",
     "vinyl-fs": "^1.0.0",
-    "year": "^0.2.1"
+    "year": "^0.2.1",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "consolidate": "^0.13.1",
@@ -158,5 +161,6 @@
         "config-cache"
       ]
     }
-  }
+  },
+  "snyk": true
 }
